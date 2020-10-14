@@ -6,7 +6,7 @@ A basic weather application made using WPF in .NET Framework that obtains the cu
 
 1.Using Visual Studio open LAB_4.sln
 
-2.If you this project for your uni classes, at least say Hi :)
+2.If you use this project for your uni classes, at least say Hi :)
 
 ## Footnotes
 
